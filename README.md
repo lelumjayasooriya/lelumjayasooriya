@@ -80,33 +80,9 @@ I partner with startups and teams to:
 
 ---
 
-### 📫 Let's Connect
-
-Feel free to reach out for collaborations, questions, or just to chat about web development!
-
-- 🌐 **Portfolio:** [lelumjayasooriya.dev](https://lelumjayasooriya.dev)
-- ✉️ **Email:** [hello@lelumjayasooriya.dev](mailto:hello@lelumjayasooriya.dev)
-- 🐦 **Twitter:** [@lelumjayasooriya](https://twitter.com/lelumjayasooriya)
-- 💼 **LinkedIn:** [Lelum Jayasooriya](https://linkedin.com/in/lelumjayasooriya)
-- 🐙 **GitHub:** [@lelumjayasooriya](https://github.com/lelumjayasooriya)
-
----
-
 ### 🎓 Currently
 
 - 🔭 Working on exciting projects that push boundaries
 - 🌱 Learning new technologies and best practices
 - 👯 Open to collaborations and partnerships
 - 💬 Always happy to discuss web development, design, and technology
-
----
-
-### 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lelumjayasooriya&show_icons=true&theme=radical)
-
----
-
-<p align="center">
-  <strong>💻 Happy coding! Let's build something amazing together 🚀</strong>
-</p>
