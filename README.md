@@ -15,31 +15,6 @@ I partner with startups and teams to:
 
 ---
 
-### 📊 Quick Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>😊 5+</strong><br>
-      Happy Clients
-    </td>
-    <td align="center">
-      <strong>⏳ 5+</strong><br>
-      Years Experience
-    </td>
-    <td align="center">
-      <strong>💼 10+</strong><br>
-      Projects
-    </td>
-    <td align="center">
-      <strong>✅ 100%</strong><br>
-      Quality
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack
 
 #### 🎨 Frontend
